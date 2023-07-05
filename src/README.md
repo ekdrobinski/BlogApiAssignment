@@ -1,6 +1,6 @@
-# Blog Platform RESTful API
+# Blog Platform API
 
-This project is a simple RESTful API for a blog platform. It allows users to perform CRUD operations on blog posts using HTTP requests.
+This project is a API for a blog platform. It allows users to perform CRUD operations on blog posts using HTTP requests.
 
 ## Technologies Used
 
